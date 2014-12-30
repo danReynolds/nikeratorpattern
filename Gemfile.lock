@@ -129,15 +129,12 @@ GEM
       yui-compressor (>= 0.12.0)
     volt-bootstrap (0.0.8)
     volt-bootstrap-jumbotron-theme (0.0.3)
-    volt-fields (0.0.12)
     volt-sockjs (0.3.4.4)
       faye-websocket (~> 0.7.1)
       json
       rack
       rack-mount (~> 0.8.3)
       thin
-    volt-user-templates (0.0.4)
-      volt-fields (~> 0.0.11)
     websocket (1.2.1)
     websocket-driver (0.5.1)
       websocket-extensions (>= 0.1.0)
@@ -155,4 +152,3 @@ DEPENDENCIES
   volt (= 0.8.24)
   volt-bootstrap
   volt-bootstrap-jumbotron-theme
-  volt-user-templates

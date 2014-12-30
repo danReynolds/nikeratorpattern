@@ -1,6 +1,10 @@
 body {
   height: 100%;
-  background: rgb(45, 144, 240);
+  background: -webkit-linear-gradient(90deg, #00d2ff 10%, #3a7bd5 90%);
+  background: -moz-linear-gradient(90deg, #00d2ff 10%, #3a7bd5 90%);
+  background: -ms-linear-gradient(90deg, #00d2ff 10%, #3a7bd5 90%);
+  background: -o-linear-gradient(90deg, #00d2ff 10%, #3a7bd5 90%);
+  background: linear-gradient(90deg, #00d2ff 10%, #3a7bd5 90%);
   color: white;
 }
 
